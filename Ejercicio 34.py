@@ -40,6 +40,21 @@ print("la matriz de f en base BE es:\n", Mbe_f,"\n",
       "la matriz de f en base B  es: \n", Mbb_f, "\n",
       "la matriz de la inversa de f en base BE es: \n", inv_Mbe_f
       )
+
+# Output:
+#la matriz de f en base BE es:
+#[[ 1  1  3]
+#[ 0  0  5]
+#[-2 -3 -2]] 
+#la matriz de f en base B  es: 
+#[[-0.6 -1.  -2.2]
+#[-0.8 -1.   2.4]
+#[ 0.8  1.   2.6]] 
+#la matriz de la inversa de f en base BE es: 
+
+#[[-6.00000000e-01 -1.00000000e+00  2.22044605e-18]
+#[ 1.20000000e+00  2.66453526e-17 -1.00000000e+00]
+#[ 8.00000000e-01  1.00000000e+00 -2.88657986e-17]]
                    
 
                    
